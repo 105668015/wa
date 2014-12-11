@@ -2,4 +2,4 @@ wa
 ==
 
 ti
-105668015.github.io/wa
+http://105668015.github.io/wa/home.html
